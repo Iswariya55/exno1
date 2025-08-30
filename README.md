@@ -24,24 +24,44 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-            <img width="810" height="630" alt="Screenshot 2025-08-30 141445" src="https://github.com/user-attachments/assets/8589e4c3-cb04-49d2-981c-9d163aeb2a9a"/> 
-            <img width="755" height="313" alt="Screenshot 2025-08-30 141608" src="https://github.com/user-attachments/assets/523f6f71-b499-4e43-abf0-f8b1e6415dcc" />
-            <img width="811" height="323" alt="Screenshot 2025-08-30 141624" src="https://github.com/user-attachments/assets/e14abbbb-9338-49b7-ad5e-a11aa9c3a3c1" />
-            <img width="753" height="588" alt="Screenshot 2025-08-30 141635" src="https://github.com/user-attachments/assets/50205062-0f22-42b2-b0be-82acaa626be0" />
-            <img width="819" height="573" alt="Screenshot 2025-08-30 141646" src="https://github.com/user-attachments/assets/e647104e-82ee-46cb-83e7-31dc6a66f29f" />
-            <img width="794" height="597" alt="Screenshot 2025-08-30 141656" src="https://github.com/user-attachments/assets/4a8e8559-865e-4594-9c0a-0f05df24efac" />
-            <img width="787" height="581" alt="Screenshot 2025-08-30 141704" src="https://github.com/user-attachments/assets/68eda665-92d9-49e9-ac54-a55051498b26" />
-            <img width="804" height="599" alt="Screenshot 2025-08-30 141711" src="https://github.com/user-attachments/assets/9086e507-0014-4bcd-96a1-29151debad7d" />
-            <img width="773" height="641" alt="Screenshot 2025-08-30 142109" src="https://github.com/user-attachments/assets/8e2514ec-c7a6-45da-8873-341734aebfac" />
-            <img width="757" height="440" alt="Screenshot 2025-08-30 142118" src="https://github.com/user-attachments/assets/189e6f85-0e6e-4557-b97a-f391fbef9c0a" />
-            <img width="748" height="635" alt="Screenshot 2025-08-30 142129" src="https://github.com/user-attachments/assets/1e145563-e59f-4c4f-87c7-f870c4c6e673" />
-            <img width="761" height="522" alt="Screenshot 2025-08-30 142143" src="https://github.com/user-attachments/assets/8d90c41b-f23e-408a-8ea9-44f57ffd81b1" />
-            <img width="756" height="604" alt="Screenshot 2025-08-30 142152" src="https://github.com/user-attachments/assets/fc9886c1-8b9d-4ede-959c-35060d8c9ea9" />
-            <img width="741" height="653" alt="Screenshot 2025-08-30 142201" src="https://github.com/user-attachments/assets/b69d8e6f-f85c-4242-8d5b-02393933b811" />
-            <img width="474" height="783" alt="Screenshot 2025-08-30 142227" src="https://github.com/user-attachments/assets/b082b143-4d3f-4325-9627-ac90a7bf4db1" />
-            <img width="487" height="564" alt="Screenshot 2025-08-30 142240" src="https://github.com/user-attachments/assets/b0d69d5f-a2bb-4c58-a712-5b1e8a6f4648" />
-            <img width="799" height="748" alt="Screenshot 2025-08-30 142251" src="https://github.com/user-attachments/assets/8bef28b4-0917-4fd1-9093-0f3e20f13f04" />
-            <img width="782" height="600" alt="Screenshot 2025-08-30 142258" src="https://github.com/user-attachments/assets/e542d24a-0f88-41f0-8155-2dd8d2cb410f" />
+            
+<img width="810" height="630" alt="Screenshot 2025-08-30 141445" src="https://github.com/user-attachments/assets/5cab8382-052e-485d-b0e6-3e49b32ba543" />
+
+<img width="755" height="313" alt="Screenshot 2025-08-30 141608" src="https://github.com/user-attachments/assets/84487f53-a6bb-4e20-997f-6b60d461dd3b" />
+
+<img width="811" height="323" alt="Screenshot 2025-08-30 141624" src="https://github.com/user-attachments/assets/8e5afb47-b150-4d95-955d-43373ae99131" />
+
+<img width="753" height="588" alt="Screenshot 2025-08-30 141635" src="https://github.com/user-attachments/assets/63a8f250-cd2c-4897-ae91-9c83e0a87856" />
+
+<img width="819" height="573" alt="Screenshot 2025-08-30 141646" src="https://github.com/user-attachments/assets/0a3078d0-2ac1-4ba5-9cc5-e64ca87736b5" />
+
+<img width="794" height="597" alt="Screenshot 2025-08-30 141656" src="https://github.com/user-attachments/assets/50e84d70-e1b9-44b5-b2ad-e809b239bb3a" />
+
+<img width="787" height="581" alt="Screenshot 2025-08-30 141704" src="https://github.com/user-attachments/assets/3b594e90-e624-4f3f-8a54-b1bb6de2b5f7" />
+
+<img width="804" height="599" alt="Screenshot 2025-08-30 141711" src="https://github.com/user-attachments/assets/82e1583a-7f34-4211-9a38-aeac0ac4a00e" />
+
+<img width="773" height="641" alt="Screenshot 2025-08-30 142109" src="https://github.com/user-attachments/assets/a40542ca-98e2-4597-b71b-bf502c55bdd5" />
+
+<img width="757" height="440" alt="Screenshot 2025-08-30 142118" src="https://github.com/user-attachments/assets/ef757c25-9037-4010-bb9f-291d42fbdecc" />
+
+<img width="748" height="635" alt="Screenshot 2025-08-30 142129" src="https://github.com/user-attachments/assets/07cf26da-08c5-4532-ac6d-8dfd59df5a89" />
+
+<img width="761" height="522" alt="Screenshot 2025-08-30 142143" src="https://github.com/user-attachments/assets/9a6cc1da-e753-494f-aa4e-2bd681f3e4e4" />
+
+<img width="756" height="604" alt="Screenshot 2025-08-30 142152" src="https://github.com/user-attachments/assets/9620048b-7c38-43cf-b128-28b69a9cc1de" />
+
+<img width="741" height="653" alt="Screenshot 2025-08-30 142201" src="https://github.com/user-attachments/assets/4d40900e-9609-47ab-a43e-b103c8fee006" />
+
+<img width="474" height="783" alt="Screenshot 2025-08-30 142227" src="https://github.com/user-attachments/assets/70b47d14-c3ed-4d1d-b34f-9a3b1a0354a4" />
+
+<img width="487" height="564" alt="Screenshot 2025-08-30 142240" src="https://github.com/user-attachments/assets/907c30d7-3113-4e6c-b6cc-84636cbe530b" />
+
+<img width="799" height="748" alt="Screenshot 2025-08-30 142251" src="https://github.com/user-attachments/assets/ce593ea9-43da-4d52-b894-01847110a1e3" />
+
+<img width="782" height="600" alt="Screenshot 2025-08-30 142258" src="https://github.com/user-attachments/assets/0edb914d-6f02-4832-9a8d-1021207752a7" />
+
+
 
 
 # Result
